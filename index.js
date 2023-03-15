@@ -1,3 +1,8 @@
+// I built this extension while following a course on scrimba
+// the extension was initally built to track leads
+// leads are something fintech companies keep, since they can be potential customers
+// that why in many places you will see the word myLeads
+// myLeads is an array that store all the tabs you have saved.
 let myLeads = [];
 const inputEl = document.getElementById("input-el");
 const inputBtn = document.getElementById("input-btn");
